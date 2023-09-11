@@ -9,14 +9,13 @@ In this course you will:
 
 References:
 
-1/ DeepLearning.AI short course “How Diffusion Models Work”
-https://www.deeplearning.ai/short-courses/how-diffusion-models-work/
+1/ DeepLearning.AI short course, [“How Diffusion Models Work”](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
 
 2/ Sprites by ElvGames, [FrootsnVeggies](https://zrghr.itch.io/froots-and-veggies-culinary-pixels) and [kyrise](https://kyrise.itch.io/)
 
 3/ Code reference
-This code is modified from https://github.com/cloneofsimo/minDiffusion
+This code is modified from [here](https://github.com/cloneofsimo/minDiffusion)
 
 4/ DDPM & DDIM papers
-Diffusion model is based on Denoising Diffusion Probabilistic Models and Denoising Diffusion Implicit Models
+Diffusion model is based on [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) and [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
 
