@@ -7,7 +7,8 @@ In this course you will:
 - Acquire practical coding skills by working through labs on sampling, training diffusion models, building neural networks for noise prediction, and adding context for personalized image generation.
 - At the end of the course, you will have a model that can serve as a starting point for your own exploration of diffusion models for your applications.
 
-Reference:
+References:
+
 1/ DeepLearning.AI short course “How Diffusion Models Work”
 https://www.deeplearning.ai/short-courses/how-diffusion-models-work/
 
