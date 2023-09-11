@@ -8,4 +8,14 @@ In this course you will:
 - At the end of the course, you will have a model that can serve as a starting point for your own exploration of diffusion models for your applications.
 
 Reference:
-https://github.com/Ryota-Kawamura/How-Diffusion-Models-Work
+1/ DeepLearning.AI short course “How Diffusion Models Work”
+https://www.deeplearning.ai/short-courses/how-diffusion-models-work/
+
+2/ Sprites by ElvGames, FrootsnVeggies and kyrise
+
+3/ Code reference
+This code is modified from https://github.com/cloneofsimo/minDiffusion
+
+4/ DDPM & DDIM papers
+Diffusion model is based on Denoising Diffusion Probabilistic Models and Denoising Diffusion Implicit Models
+
