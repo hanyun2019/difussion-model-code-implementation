@@ -12,7 +12,7 @@ References:
 1/ DeepLearning.AI short course “How Diffusion Models Work”
 https://www.deeplearning.ai/short-courses/how-diffusion-models-work/
 
-2/ Sprites by ElvGames, FrootsnVeggies and kyrise
+2/ Sprites by ElvGames, [FrootsnVeggies](https://zrghr.itch.io/froots-and-veggies-culinary-pixels) and [kyrise](https://kyrise.itch.io/)
 
 3/ Code reference
 This code is modified from https://github.com/cloneofsimo/minDiffusion
